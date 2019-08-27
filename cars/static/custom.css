@@ -1,0 +1,20 @@
+
+.background{
+
+		background-color: black;
+     background-size: cover;
+		margin-bottom: 0 !important;
+		background-repeat: no-repeat;
+		-webkit-background-size: cover;
+ 	    -moz-background-size: cover;
+  		-o-background-size: cover;
+ 	
+}
+
+
+
+.container{
+    background-color: black;
+     background-size: cover;
+}
+
