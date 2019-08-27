@@ -1,7 +1,7 @@
 
 .background{
 
-		background-color: black;
+		background-image: url(road.jpg);
      background-size: cover;
 		margin-bottom: 0 !important;
 		background-repeat: no-repeat;
@@ -13,8 +13,4 @@
 
 
 
-.container{
-    background-color: black;
-     background-size: cover;
-}
 
